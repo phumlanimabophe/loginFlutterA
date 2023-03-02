@@ -5,7 +5,7 @@ Image cards with basic gallary and state properties.
 ## Getting Started
 
 CardSwipe and Gallary Basic App
-CardSwipe is a simple Flutter application that allows you to swipe through a set of images.
+It's a simple Flutter application that allows you to swipe through a set of images.
 
 Getting Started
 To get started with this app, you will need to clone the repository and open it in Flutter.
